@@ -1,0 +1,36 @@
+html, body {
+  height: 100%;
+  margin: auto;
+}
+
+#nav {
+  position: fixed;
+  z-index: 1;
+  left: 47%;
+  top: 0.2%;
+}
+
+#nav a {
+  text-decoration: none;
+}
+
+#nav li {
+  display: inline;
+  text-align: center;
+  color: #595C60;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 19pt;
+  padding-left: 1em;
+
+}
+
+#nav a:hover {
+  text-decoration: none;
+  border-bottom-style: solid;
+  border-bottom-width: solid;
+  border-bottom-color: #FFC100;
+}
+#nav a:hover li {
+  color: #DEDFE5;
+}

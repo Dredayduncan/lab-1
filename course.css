@@ -1,0 +1,11 @@
+#title {
+  position: absolute;
+  top: 10%;
+  font-family: futura, Roboto;
+  font-size: 20pt;
+  text-align: center;
+  left: 5%;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  border-bottom-color: #FFC100;
+}

@@ -25,12 +25,20 @@ html, body {
 
 }
 
-#nav a:hover {
+#nav a:hover:not(.active) li {
+  color: #DEDFE5;
   text-decoration: none;
   border-bottom-style: solid;
   border-bottom-width: solid;
   border-bottom-color: #FFC100;
 }
-#nav a:hover li {
+
+.active {
+  border-bottom-style: solid;
+  border-bottom-width: solid;
+  border-bottom-color: #FFC100;
+}
+
+.active a li{
   color: #DEDFE5;
 }

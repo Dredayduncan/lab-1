@@ -1,7 +1,8 @@
 ## ANDREW DUNCAN
+
 ## Lab-1 Git Repository Seed
 
-##Webiste link: https://github.com/Dredayduncan/lab-1
+## Website link: https://dredayduncan.github.io/lab-1/
 
 This file is the template for the first lab in Ashesi Web Development 2020.
 
